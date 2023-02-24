@@ -2550,7 +2550,7 @@ ul.breadcrumb li:last-child {
   }
 }
 body {
-  background: url("images/background.png");
+  background: url("themes/next/source/images/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
